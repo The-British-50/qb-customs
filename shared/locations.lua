@@ -73,7 +73,7 @@ Vehicle Classes:
          categories = {
              mods = false,
              turbo = false,
-             repair = false,
+             repair = true,
              respray = true,
              liveries = true,
              wheels = true,
@@ -113,7 +113,7 @@ Vehicle Classes:
          categories = {
              mods = false,
              turbo = false,
-             repair = false,
+             repair = true,
              respray = true,
              liveries = true,
              wheels = true,
@@ -153,7 +153,7 @@ Vehicle Classes:
          categories = {
              mods = false,
              turbo = false,
-             repair = false,
+             repair = true,
              respray = true,
              liveries = true,
              wheels = true,
@@ -193,7 +193,7 @@ Vehicle Classes:
          categories = {
              mods = false,
              turbo = false,
-             repair = false,
+             repair = true,
              respray = true,
              liveries = true,
              wheels = true,
@@ -272,7 +272,7 @@ Vehicle Classes:
          categories = {
              mods = false,
              turbo = false,
-             repair = false,
+             repair = true,
              respray = true,
              liveries = true,
              wheels = true,
@@ -312,7 +312,7 @@ Vehicle Classes:
          categories = {
              mods = false,
              turbo = false,
-             repair = false,
+             repair = true,
              respray = true,
              liveries = true,
              wheels = true,
