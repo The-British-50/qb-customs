@@ -383,8 +383,8 @@ Vehicle Classes:
              text = "Pillbox Motorworks"
          },
          restrictions = {
-             job = { 'ambulance' },
-             allowedClasses = { 18 },
+             job = { 'ambulance', 'hwe' },
+             allowedClasses = { 18, 17 },
          },
          zones = {
              { coords = vector3(337.2, -579.6, 28.8), length = 9.4, width = 4.2, heading = 340.0, minZ = 27.5, maxZ = 31.5 },
