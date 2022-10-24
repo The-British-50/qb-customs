@@ -32,6 +32,7 @@ Config.PayWithSocietyWhenJobRestricted = true -- Whether to have job societies p
 Config.PaidBySociety = {
     'police',
     'ambulance',
+    'hwe',
 } -- List of job societies that pay for employees, regardless of the customs location
 
 maxVehiclePerformanceUpgrades = -1 -- | All Upgrades: 0 | No Upgrades: -1 | Can be -1 to 4
