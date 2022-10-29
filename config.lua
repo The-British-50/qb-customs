@@ -10,9 +10,9 @@ Config.UseRadial = false -- Will use qb-radial menu for entering instead of pres
 Config.allowGovPlateIndex = false -- Setting this to true will allow all vehicles to purchase gov plate index "Blue on White #3" (only for emergency vehicles otherwise)
 
 Config.DisableWhenMechanicsOnline = true -- Disables customs completely if enough mechanics are online and on-duty
-Config.MinOnlineMechanics = 1 -- The amount of mechanics that have to be online and on-duty to disable customs (mechanics can still use them)
+Config.MinOnlineMechanics = 3 -- The amount of mechanics that have to be online and on-duty to disable customs (mechanics can still use them)
 Config.DisabledCategoriesMechanics = {
-    repair = true,
+    repair = false,
     mods = false,
     armor = false,
     respray = false,
@@ -33,6 +33,7 @@ Config.PaidBySociety = {
     'police',
     'ambulance',
     'hwe',
+    'lfb',
 } -- List of job societies that pay for employees, regardless of the customs location
 
 maxVehiclePerformanceUpgrades = -1 -- | All Upgrades: 0 | No Upgrades: -1 | Can be -1 to 4
